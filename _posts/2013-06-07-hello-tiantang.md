@@ -7,8 +7,8 @@ tags: []
 ---
 {% include JB/setup %}
 
-I can do it, I just need to keep going!
+这是一个新的博客，新的世界，我来啦！
 
 ##加油！
 
-To those who love me, I will be a better man!
+努力，为更好的明天！Stay hungry, stay foolish!
