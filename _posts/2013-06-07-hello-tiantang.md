@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-I can do it, I just to keep going!
+I can do it, I just need to keep going!
 
 ##come on!
 
