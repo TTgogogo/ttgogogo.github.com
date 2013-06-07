@@ -7,8 +7,8 @@ tags: []
 ---
 {% include JB/setup %}
 
-今天是六月七号！
+I can do it, I just to keep going!
 
-##高考啦！
+##come on!
 
-大家加油！考得好成绩！
+To those who love me, I will be a better man!

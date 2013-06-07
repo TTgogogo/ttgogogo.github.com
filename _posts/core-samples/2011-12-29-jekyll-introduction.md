@@ -6,7 +6,7 @@ tags : [intro, beginner, jekyll, tutorial]
 ---
 {% include JB/setup %}
 
-你好，世界！
+Hello, Tiantang!
 
 ## Overview 
 
