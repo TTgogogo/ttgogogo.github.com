@@ -9,6 +9,6 @@ tags: []
 
 I can do it, I just need to keep going!
 
-##come on!
+##加油！
 
 To those who love me, I will be a better man!
