@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "哥的心水App"
+title: "部落关系学"
 description: ""
 category: 
 tags: []
