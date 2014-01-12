@@ -6,10 +6,6 @@ category:
 tags: []
 ---
 {% include JB/setup %}
-Try to show a JPG image:
+Try to show a JPG image 2:
 
 ![image](https://raw2.github.com/TTgogogo/ttgogogo.github.com/master/images/campanile_goldengate.jpg)
-
-Try to show a PNG image:
-
-![image](https://raw2.github.com/TTgogogo/ttgogogo.github.com/master/images/campanile_goldengate.png)
