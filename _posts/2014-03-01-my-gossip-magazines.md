@@ -27,6 +27,7 @@ tags: []
 
 ![](https://raw.github.com/TTgogogo/ttgogogo.github.com/master/images/magazine1.jpg)
 
+
 眼看哥就要一步一步地加入光荣的狗仔队大军，事情再次出现了急转直下的变化。
 
 一封高考录取通知书，把我从大广东撵到了大四川。
@@ -45,6 +46,8 @@ tags: []
 从此，一个崭新的时代开始了。
 
 以下是哥在本科生涯的阶段性成果：
+
+![](https://raw.github.com/TTgogogo/ttgogogo.github.com/master/images/magazine2.jpg)
 
 就在哥已经打算坚持这项八卦习惯50年不动摇时，2010年，王兴抄袭了Groupon，团购网站在中国出现了。
 
